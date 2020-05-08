@@ -243,8 +243,8 @@ function getDefaultConfig() {
         },
 
         theme : {
-            default     : 'luciano_blocktronics',
-            preLogin    : 'luciano_blocktronics',
+            default     : 'Sarasum',
+            preLogin    : 'Sarasum',
 
             passwordChar    : '*',
             dateFormat  : {
